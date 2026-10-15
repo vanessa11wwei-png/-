@@ -1,0 +1,108 @@
+{
+  "sheets": 13,
+  "views": 16,
+  "dimension_records": 144,
+  "numeric_dimension_checks": 128,
+  "unresolved_height_records": 16,
+  "detail_references": 27,
+  "defined_details": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06"
+  ],
+  "component_width_closure_checks": 6,
+  "dwg_round_trip_files": 14,
+  "cad_dashes_segmented": true,
+  "layer_lineweights_preserved": true,
+  "source_dxf_sha256": "5814e47cfc177c85b6740f29fc205c8a5d4ab04ba18f6a482a02accccfb1c981",
+  "dxf_audits": [
+    {
+      "name": "GE-01_plan_projection_index.dxf",
+      "entities": 1639,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-03_02_AB.dxf",
+      "entities": 1340,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-08_04_CD.dxf",
+      "entities": 1474,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "ND-02_D04-D06.dxf",
+      "entities": 400,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "ND-01_D01-D03.dxf",
+      "entities": 451,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-04_02_CD.dxf",
+      "entities": 3784,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-05_03_AB.dxf",
+      "entities": 3910,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-02_01_CD.dxf",
+      "entities": 2397,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "GE-00_materials_and_index.dxf",
+      "entities": 326,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "bedroom_elevations_R03.dxf",
+      "entities": 25564,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-06_03_CD.dxf",
+      "entities": 4155,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "GE-02_design_parameters.dxf",
+      "entities": 113,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-01_01_AB.dxf",
+      "entities": 1723,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "name": "EL-07_04_AB.dxf",
+      "entities": 3852,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    }
+  ],
+  "status": "程序检查通过；设计建议和未知高度仍待签审"
+}
