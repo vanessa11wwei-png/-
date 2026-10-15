@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+task_root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+export XDG_CACHE_HOME=/workspace/.cache
+export MPLCONFIGDIR=/workspace/.cache/matplotlib
+mkdir -p "$XDG_CACHE_HOME" "$MPLCONFIGDIR"
+if [[ -x "$task_root/tools/oda-convert" && -x /workspace/cad-tools/oda/usr/bin/ODAFileConverter_27.9.0.0/ODAFileConverter ]]; then
+  export CAD_DRAWINGS_ODA="$task_root/tools/oda-convert"
+  export PATH="/workspace/cad-tools/xvfb/usr/bin:$PATH"
+fi
+if [[ -x /workspace/cad-work/libredwg-0.14/programs/dwg2dxf ]]; then
+  export PATH="/workspace/cad-work/libredwg-0.14/programs:$PATH"
+fi
+exec python "$task_root/.agents/skills/cad-drawings/scripts/cad.py" "$@"

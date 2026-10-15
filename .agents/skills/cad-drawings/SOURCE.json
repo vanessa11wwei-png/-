@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/numikel/cad-drawings",
+  "commit": "12da9c7a977846c76118496a623e0de2f3d0e0fc",
+  "license": "MIT",
+  "installation": "project-local; not a remote MCP connection"
+}

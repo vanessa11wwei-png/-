@@ -1,0 +1,1323 @@
+{
+  "status": "passed",
+  "sheets": 27,
+  "elevations": 16,
+  "cabinet_sheets": 3,
+  "construction_nodes": 9,
+  "native_dimension_checks": 165,
+  "model_entities": {
+    "LINE": 308,
+    "LWPOLYLINE": 704,
+    "TEXT": 148,
+    "HATCH": 255,
+    "INSERT": 45,
+    "DIMENSION": 165,
+    "WIPEOUT": 159,
+    "CIRCLE": 47,
+    "LEADER": 2
+  },
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "source_sha256": "5814e47cfc177c85b6740f29fc205c8a5d4ab04ba18f6a482a02accccfb1c981",
+  "paper_text_outside": [],
+  "clipped_view_entities": [],
+  "viewports": [
+    {
+      "sheet": "GE-02",
+      "scale": 50.0,
+      "locked": true
+    },
+    {
+      "sheet": "GE-02",
+      "scale": 50.0,
+      "locked": true
+    },
+    {
+      "sheet": "GE-02",
+      "scale": 50.0,
+      "locked": true
+    },
+    {
+      "sheet": "GE-02",
+      "scale": 50.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-01",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-02",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-03",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-04",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-05",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-06",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-07",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-08",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-09",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-10",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-11",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-12",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-13",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-14",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-15",
+      "scale": 25.0,
+      "locked": true
+    },
+    {
+      "sheet": "EL-16",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-01",
+      "scale": 15.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-01",
+      "scale": 15.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-02",
+      "scale": 15.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-02",
+      "scale": 15.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-03",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "JB-03",
+      "scale": 20.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-01",
+      "scale": 5.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-01",
+      "scale": 5.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-02",
+      "scale": 2.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-02",
+      "scale": 2.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-03",
+      "scale": 2.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-03",
+      "scale": 15.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-04",
+      "scale": 5.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-04",
+      "scale": 2.0,
+      "locked": true
+    },
+    {
+      "sheet": "ND-05",
+      "scale": 5.0,
+      "locked": true
+    }
+  ],
+  "source_geometry_rechecks": {
+    "girl_wardrobe": {
+      "handle": "91CE",
+      "min": [
+        41773.07005867005,
+        48906.75421125878,
+        0.0
+      ],
+      "max": [
+        44338.07005867006,
+        49526.75421125878,
+        0.0
+      ],
+      "width": 2565.0000000000146,
+      "depth": 620.0
+    },
+    "girl_combined_window_furniture": {
+      "handle": "90CA",
+      "min": [
+        40153.07005867004,
+        49536.75421125878,
+        0.0
+      ],
+      "max": [
+        40823.07005867005,
+        51916.75421125878,
+        0.0
+      ],
+      "width": 670.0000000000073,
+      "depth": 2380.0
+    },
+    "master_desk": {
+      "handle": "9156",
+      "min": [
+        53113.07005867005,
+        55866.75421125876,
+        0.0
+      ],
+      "max": [
+        54233.07005867005,
+        56416.75421125873,
+        0.0
+      ],
+      "width": 1120.0,
+      "depth": 549.9999999999709
+    },
+    "boy_wardrobe": {
+      "handle": "90EB",
+      "min": [
+        45003.07005867005,
+        52036.75421125878,
+        0.0
+      ],
+      "max": [
+        45603.07005867005,
+        53756.75421125877,
+        0.0
+      ],
+      "width": 600.0,
+      "depth": 1719.9999999999854
+    },
+    "boy_toy": {
+      "handle": "913D",
+      "min": [
+        42503.07005867005,
+        54706.75421125879,
+        0.0
+      ],
+      "max": [
+        45603.07005867005,
+        54906.75421125877,
+        0.0
+      ],
+      "width": 3100.0,
+      "depth": 199.99999999997817
+    },
+    "secondary_thin_cabinet": {
+      "handle": "9AD2",
+      "min": [
+        43473.07005867005,
+        55026.75421125877,
+        0.0
+      ],
+      "max": [
+        45873.07005867004,
+        55326.75421125878,
+        0.0
+      ],
+      "width": 2399.9999999999927,
+      "depth": 300.00000000001455
+    },
+    "girl_head_unit": {
+      "handle": "90BE",
+      "min": [
+        43823.07005867005,
+        50416.75421125878,
+        0.0
+      ],
+      "max": [
+        44423.07005867005,
+        51916.75421125878,
+        0.0
+      ],
+      "width": 600.0,
+      "depth": 1500.0
+    },
+    "girl_east_door_leaf": {
+      "handle": "90DD",
+      "min": [
+        45673.07005867005,
+        50686.75421125878,
+        0.0
+      ],
+      "max": [
+        45723.07005867005,
+        51546.75421125878,
+        0.0
+      ],
+      "width": 50.0,
+      "depth": 860.0
+    }
+  },
+  "dimensions": [
+    {
+      "handle": "269",
+      "value": 5200.0,
+      "shown": "5200",
+      "status": "P"
+    },
+    {
+      "handle": "2C1",
+      "value": 730.0,
+      "shown": "730",
+      "status": "P"
+    },
+    {
+      "handle": "2D0",
+      "value": 2000.0,
+      "shown": "2000",
+      "status": "P"
+    },
+    {
+      "handle": "2DF",
+      "value": 730.0,
+      "shown": "730",
+      "status": "P"
+    },
+    {
+      "handle": "2EE",
+      "value": 420.0,
+      "shown": "420",
+      "status": "P"
+    },
+    {
+      "handle": "2FD",
+      "value": 1120.0,
+      "shown": "1120",
+      "status": "P"
+    },
+    {
+      "handle": "30C",
+      "value": 200.0,
+      "shown": "200",
+      "status": "P"
+    },
+    {
+      "handle": "31B",
+      "value": 480.0,
+      "shown": "480[D]",
+      "status": "D"
+    },
+    {
+      "handle": "36F",
+      "value": 3790.0,
+      "shown": "3790",
+      "status": "P"
+    },
+    {
+      "handle": "39C",
+      "value": 260.0,
+      "shown": "260",
+      "status": "P"
+    },
+    {
+      "handle": "3AB",
+      "value": 3530.0,
+      "shown": "3530",
+      "status": "P"
+    },
+    {
+      "handle": "3BA",
+      "value": 550.0,
+      "shown": "550",
+      "status": "P"
+    },
+    {
+      "handle": "40F",
+      "value": 5200.0,
+      "shown": "5200",
+      "status": "P"
+    },
+    {
+      "handle": "42D",
+      "value": 300.0,
+      "shown": "300",
+      "status": "P"
+    },
+    {
+      "handle": "43C",
+      "value": 980.0,
+      "shown": "980",
+      "status": "P"
+    },
+    {
+      "handle": "44B",
+      "value": 3920.0,
+      "shown": "3920",
+      "status": "P"
+    },
+    {
+      "handle": "4A2",
+      "value": 3790.0,
+      "shown": "3790",
+      "status": "P"
+    },
+    {
+      "handle": "4C0",
+      "value": 1050.0,
+      "shown": "1050",
+      "status": "P"
+    },
+    {
+      "handle": "4CF",
+      "value": 2740.0,
+      "shown": "2740",
+      "status": "P"
+    },
+    {
+      "handle": "523",
+      "value": 3420.0,
+      "shown": "3420",
+      "status": "P"
+    },
+    {
+      "handle": "539",
+      "value": 1700.0000000000002,
+      "shown": "1700[D]",
+      "status": "D"
+    },
+    {
+      "handle": "565",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "574",
+      "value": 1800.0,
+      "shown": "1800",
+      "status": "P"
+    },
+    {
+      "handle": "583",
+      "value": 1020.0,
+      "shown": "1020",
+      "status": "P"
+    },
+    {
+      "handle": "592",
+      "value": 855.0,
+      "shown": "855[D]",
+      "status": "D"
+    },
+    {
+      "handle": "5A1",
+      "value": 855.0,
+      "shown": "855[D]",
+      "status": "D"
+    },
+    {
+      "handle": "5B0",
+      "value": 855.0,
+      "shown": "855[D]",
+      "status": "D"
+    },
+    {
+      "handle": "5BF",
+      "value": 855.0,
+      "shown": "855[D]",
+      "status": "D"
+    },
+    {
+      "handle": "613",
+      "value": 3430.0,
+      "shown": "3430",
+      "status": "P"
+    },
+    {
+      "handle": "637",
+      "value": 260.0,
+      "shown": "260",
+      "status": "P"
+    },
+    {
+      "handle": "646",
+      "value": 1500.0,
+      "shown": "1500",
+      "status": "P"
+    },
+    {
+      "handle": "655",
+      "value": 1670.0,
+      "shown": "1670",
+      "status": "P"
+    },
+    {
+      "handle": "6AA",
+      "value": 3420.0,
+      "shown": "3420",
+      "status": "P"
+    },
+    {
+      "handle": "6D4",
+      "value": 600.0,
+      "shown": "600[D]",
+      "status": "D"
+    },
+    {
+      "handle": "6EB",
+      "value": 600.0,
+      "shown": "600[D]",
+      "status": "D"
+    },
+    {
+      "handle": "702",
+      "value": 600.0,
+      "shown": "600[D]",
+      "status": "D"
+    },
+    {
+      "handle": "719",
+      "value": 600.0,
+      "shown": "600[D]",
+      "status": "D"
+    },
+    {
+      "handle": "728",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "73F",
+      "value": 70.0,
+      "shown": "70",
+      "status": "P"
+    },
+    {
+      "handle": "74E",
+      "value": 860.0,
+      "shown": "860",
+      "status": "P"
+    },
+    {
+      "handle": "75D",
+      "value": 90.0,
+      "shown": "90",
+      "status": "P"
+    },
+    {
+      "handle": "76C",
+      "value": 2400.0,
+      "shown": "2400",
+      "status": "P"
+    },
+    {
+      "handle": "7C0",
+      "value": 3430.0,
+      "shown": "3430",
+      "status": "P"
+    },
+    {
+      "handle": "7EC",
+      "value": 350.0,
+      "shown": "350",
+      "status": "P"
+    },
+    {
+      "handle": "7FB",
+      "value": 760.0,
+      "shown": "760",
+      "status": "P"
+    },
+    {
+      "handle": "80A",
+      "value": 840.0,
+      "shown": "840",
+      "status": "P"
+    },
+    {
+      "handle": "819",
+      "value": 960.0,
+      "shown": "960",
+      "status": "P"
+    },
+    {
+      "handle": "828",
+      "value": 520.0,
+      "shown": "520",
+      "status": "P"
+    },
+    {
+      "handle": "87C",
+      "value": 5450.0,
+      "shown": "5450",
+      "status": "P"
+    },
+    {
+      "handle": "8EF",
+      "value": 590.0,
+      "shown": "590[D]",
+      "status": "D"
+    },
+    {
+      "handle": "906",
+      "value": 590.0,
+      "shown": "590[D]",
+      "status": "D"
+    },
+    {
+      "handle": "915",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "943",
+      "value": 670.0,
+      "shown": "670",
+      "status": "P"
+    },
+    {
+      "handle": "952",
+      "value": 950.0,
+      "shown": "950",
+      "status": "P"
+    },
+    {
+      "handle": "961",
+      "value": 2050.0,
+      "shown": "2050",
+      "status": "P"
+    },
+    {
+      "handle": "970",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "97F",
+      "value": 1180.0,
+      "shown": "1180",
+      "status": "P"
+    },
+    {
+      "handle": "9D4",
+      "value": 3010.0,
+      "shown": "3010",
+      "status": "P"
+    },
+    {
+      "handle": "A93",
+      "value": 370.0,
+      "shown": "370",
+      "status": "P"
+    },
+    {
+      "handle": "AA2",
+      "value": 860.0,
+      "shown": "860",
+      "status": "P"
+    },
+    {
+      "handle": "AB1",
+      "value": 1780.0,
+      "shown": "1780",
+      "status": "P"
+    },
+    {
+      "handle": "AC0",
+      "value": 1500.0,
+      "shown": "1500",
+      "status": "P"
+    },
+    {
+      "handle": "B14",
+      "value": 5450.0,
+      "shown": "5450",
+      "status": "P"
+    },
+    {
+      "handle": "B30",
+      "value": 785.0,
+      "shown": "785[D]",
+      "status": "D"
+    },
+    {
+      "handle": "B3F",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "B62",
+      "value": 513.0,
+      "shown": "513[D]",
+      "status": "D"
+    },
+    {
+      "handle": "B79",
+      "value": 513.0,
+      "shown": "513[D]",
+      "status": "D"
+    },
+    {
+      "handle": "B90",
+      "value": 513.0,
+      "shown": "513[D]",
+      "status": "D"
+    },
+    {
+      "handle": "BA7",
+      "value": 513.0,
+      "shown": "513[D]",
+      "status": "D"
+    },
+    {
+      "handle": "BBE",
+      "value": 513.0,
+      "shown": "513[D]",
+      "status": "D"
+    },
+    {
+      "handle": "BCD",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "BF2",
+      "value": 330.0,
+      "shown": "330",
+      "status": "P"
+    },
+    {
+      "handle": "C01",
+      "value": 785.0,
+      "shown": "785",
+      "status": "P"
+    },
+    {
+      "handle": "C10",
+      "value": 150.0,
+      "shown": "150",
+      "status": "P"
+    },
+    {
+      "handle": "C1F",
+      "value": 2565.0,
+      "shown": "2565",
+      "status": "P"
+    },
+    {
+      "handle": "C2E",
+      "value": 70.0,
+      "shown": "70",
+      "status": "P"
+    },
+    {
+      "handle": "C3D",
+      "value": 760.0,
+      "shown": "760",
+      "status": "P"
+    },
+    {
+      "handle": "C4C",
+      "value": 790.0,
+      "shown": "790",
+      "status": "P"
+    },
+    {
+      "handle": "CA0",
+      "value": 3010.0,
+      "shown": "3010",
+      "status": "P"
+    },
+    {
+      "handle": "CBF",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "CCE",
+      "value": 1809.9999999999998,
+      "shown": "1810",
+      "status": "P"
+    },
+    {
+      "handle": "CF4",
+      "value": 630.0,
+      "shown": "630",
+      "status": "P"
+    },
+    {
+      "handle": "D03",
+      "value": 2380.0,
+      "shown": "2380",
+      "status": "P"
+    },
+    {
+      "handle": "D12",
+      "value": 1400.0,
+      "shown": "1400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "D21",
+      "value": 980.0,
+      "shown": "980[D]",
+      "status": "D"
+    },
+    {
+      "handle": "D30",
+      "value": 750.0,
+      "shown": "750[D]",
+      "status": "D"
+    },
+    {
+      "handle": "D85",
+      "value": 5450.0,
+      "shown": "5450",
+      "status": "P"
+    },
+    {
+      "handle": "DE5",
+      "value": 840.0,
+      "shown": "840",
+      "status": "P"
+    },
+    {
+      "handle": "DF4",
+      "value": 760.0,
+      "shown": "760",
+      "status": "P"
+    },
+    {
+      "handle": "E03",
+      "value": 750.0,
+      "shown": "750",
+      "status": "P"
+    },
+    {
+      "handle": "E12",
+      "value": 3100.0,
+      "shown": "3100",
+      "status": "P"
+    },
+    {
+      "handle": "E66",
+      "value": 2870.0,
+      "shown": "2870",
+      "status": "P"
+    },
+    {
+      "handle": "E90",
+      "value": 573.0,
+      "shown": "573[D]",
+      "status": "D"
+    },
+    {
+      "handle": "EA7",
+      "value": 574.0,
+      "shown": "574[D]",
+      "status": "D"
+    },
+    {
+      "handle": "EBE",
+      "value": 573.0,
+      "shown": "573[D]",
+      "status": "D"
+    },
+    {
+      "handle": "ECD",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "EE4",
+      "value": 860.0,
+      "shown": "860",
+      "status": "P"
+    },
+    {
+      "handle": "EF3",
+      "value": 1720.0,
+      "shown": "1720",
+      "status": "P"
+    },
+    {
+      "handle": "F48",
+      "value": 5450.0,
+      "shown": "5450",
+      "status": "P"
+    },
+    {
+      "handle": "F81",
+      "value": 670.0,
+      "shown": "670",
+      "status": "P"
+    },
+    {
+      "handle": "F90",
+      "value": 730.0,
+      "shown": "730",
+      "status": "P"
+    },
+    {
+      "handle": "F9F",
+      "value": 1500.0,
+      "shown": "1500",
+      "status": "P"
+    },
+    {
+      "handle": "FAE",
+      "value": 500.0,
+      "shown": "500",
+      "status": "P"
+    },
+    {
+      "handle": "FBD",
+      "value": 1380.0,
+      "shown": "1380",
+      "status": "P"
+    },
+    {
+      "handle": "FCC",
+      "value": 670.0,
+      "shown": "670",
+      "status": "P"
+    },
+    {
+      "handle": "1021",
+      "value": 2870.0,
+      "shown": "2870",
+      "status": "P"
+    },
+    {
+      "handle": "1040",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "104F",
+      "value": 1810.0,
+      "shown": "1810",
+      "status": "P"
+    },
+    {
+      "handle": "106E",
+      "value": 130.0,
+      "shown": "130",
+      "status": "P"
+    },
+    {
+      "handle": "107D",
+      "value": 2540.0,
+      "shown": "2540",
+      "status": "P"
+    },
+    {
+      "handle": "108C",
+      "value": 200.0,
+      "shown": "200",
+      "status": "P"
+    },
+    {
+      "handle": "109B",
+      "value": 750.0,
+      "shown": "750[D]",
+      "status": "D"
+    },
+    {
+      "handle": "10FF",
+      "value": 486.0,
+      "shown": "486[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1118",
+      "value": 495.0,
+      "shown": "495[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1131",
+      "value": 495.0,
+      "shown": "495[D]",
+      "status": "D"
+    },
+    {
+      "handle": "114A",
+      "value": 495.0,
+      "shown": "495[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1162",
+      "value": 486.0,
+      "shown": "486[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1172",
+      "value": 2565.0,
+      "shown": "2565",
+      "status": "P"
+    },
+    {
+      "handle": "1181",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1190",
+      "value": 1882.0,
+      "shown": "1882[D]",
+      "status": "D"
+    },
+    {
+      "handle": "11B5",
+      "value": 620.0,
+      "shown": "620",
+      "status": "P"
+    },
+    {
+      "handle": "11C4",
+      "value": 80.0,
+      "shown": "80[D]",
+      "status": "D"
+    },
+    {
+      "handle": "11D3",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1224",
+      "value": 546.0,
+      "shown": "546[D]",
+      "status": "D"
+    },
+    {
+      "handle": "123D",
+      "value": 556.0,
+      "shown": "556[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1255",
+      "value": 546.0,
+      "shown": "546[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1265",
+      "value": 1720.0,
+      "shown": "1720",
+      "status": "P"
+    },
+    {
+      "handle": "1274",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1283",
+      "value": 1882.0,
+      "shown": "1882[D]",
+      "status": "D"
+    },
+    {
+      "handle": "12A8",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "12B7",
+      "value": 80.0,
+      "shown": "80[D]",
+      "status": "D"
+    },
+    {
+      "handle": "12C6",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "131C",
+      "value": 573.0,
+      "shown": "573[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1334",
+      "value": 582.0,
+      "shown": "582[D]",
+      "status": "D"
+    },
+    {
+      "handle": "134C",
+      "value": 582.0,
+      "shown": "582[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1364",
+      "value": 573.0,
+      "shown": "573[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1374",
+      "value": 2400.0,
+      "shown": "2400",
+      "status": "P"
+    },
+    {
+      "handle": "1383",
+      "value": 2400.0,
+      "shown": "2400[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1392",
+      "value": 1882.0,
+      "shown": "1882[D]",
+      "status": "D"
+    },
+    {
+      "handle": "13E2",
+      "value": 3100.0,
+      "shown": "3100",
+      "status": "P"
+    },
+    {
+      "handle": "13F1",
+      "value": 600.0,
+      "shown": "600[D]",
+      "status": "D"
+    },
+    {
+      "handle": "142E",
+      "value": 60.0,
+      "shown": "60[D]",
+      "status": "D"
+    },
+    {
+      "handle": "143D",
+      "value": 80.0,
+      "shown": "80[D]",
+      "status": "D"
+    },
+    {
+      "handle": "144C",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1477",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "14AB",
+      "value": 3.0,
+      "shown": "3[D]",
+      "status": "D"
+    },
+    {
+      "handle": "14BA",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "14C9",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "14ED",
+      "value": 10.000000000000002,
+      "shown": "10[D]",
+      "status": "D"
+    },
+    {
+      "handle": "14FC",
+      "value": 12.0,
+      "shown": "12[D]",
+      "status": "D"
+    },
+    {
+      "handle": "150B",
+      "value": 3.0,
+      "shown": "3[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1544",
+      "value": 3.0,
+      "shown": "3[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1553",
+      "value": 12.0,
+      "shown": "12[D]",
+      "status": "D"
+    },
+    {
+      "handle": "157D",
+      "value": 600.0,
+      "shown": "600",
+      "status": "P"
+    },
+    {
+      "handle": "158C",
+      "value": 750.0,
+      "shown": "750[D]",
+      "status": "D"
+    },
+    {
+      "handle": "159B",
+      "value": 150.0,
+      "shown": "150[D]",
+      "status": "D"
+    },
+    {
+      "handle": "15AA",
+      "value": 70.0,
+      "shown": "70[D]",
+      "status": "D"
+    },
+    {
+      "handle": "15E6",
+      "value": 180.0,
+      "shown": "180[D]",
+      "status": "D"
+    },
+    {
+      "handle": "15F5",
+      "value": 150.0,
+      "shown": "150[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1616",
+      "value": 18.0,
+      "shown": "18[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1625",
+      "value": 10.0,
+      "shown": "10[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1634",
+      "value": 8.0,
+      "shown": "8[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1667",
+      "value": 3.0,
+      "shown": "3[D]",
+      "status": "D"
+    },
+    {
+      "handle": "1676",
+      "value": 12.0,
+      "shown": "12[D]",
+      "status": "D"
+    },
+    {
+      "handle": "168A",
+      "value": 60.000000000000014,
+      "shown": "60[D]",
+      "status": "D"
+    }
+  ],
+  "unresolved": [
+    "完成吊顶净高",
+    "门窗竖向及分格U",
+    "桌窗150高差",
+    "门套邻柜20余量",
+    "玩具柜深200与篮筐选型",
+    "厂家固定/承载/样板签审"
+  ]
+}

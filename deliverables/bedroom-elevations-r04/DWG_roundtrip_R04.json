@@ -1,0 +1,178 @@
+{
+  "status": "passed",
+  "converter": "ODA File Converter 27.9.0.0",
+  "dwg_version": "AC1027 / AutoCAD 2013",
+  "units": "mm",
+  "layouts": 27,
+  "native_dimensions_model": 165,
+  "native_hatches_model": 255,
+  "native_wipeouts_model": 159,
+  "material_leaders_paper": 48,
+  "checked_objects_including_paperspace": {
+    "LINE": 582,
+    "LWPOLYLINE": 751,
+    "TEXT": 994,
+    "HATCH": 255,
+    "INSERT": 45,
+    "DIMENSION": 165,
+    "WIPEOUT": 159,
+    "CIRCLE": 47,
+    "LEADER": 50,
+    "VIEWPORT": 62
+  },
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "geometry_and_text_match": true,
+  "dimension_display_values_match": true,
+  "mask_boundaries_match": true,
+  "draw_order_match": true,
+  "viewport_parameters_match": true,
+  "layer_lineweights_match": true,
+  "native_hatch_patterns_match": true,
+  "attributes_match": true,
+  "DWG_sha256": "ad2e01ac83d7eb845786fc42fb70e470fb3d9668a6a965bb3501de5a91f97bcd",
+  "known_metadata_normalizations": [
+    {
+      "layout": "GE-00",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "GE-01",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "GE-02",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-01",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-02",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-03",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-04",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-05",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-06",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-07",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-08",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-09",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-10",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-11",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-12",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-13",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-14",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-15",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "EL-16",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "JB-01",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "JB-02",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "JB-03",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "ND-01",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "ND-02",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "ND-03",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "ND-04",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    },
+    {
+      "layout": "ND-05",
+      "object": "overall paper viewport",
+      "change": "VIEWPORTS layer -> 0 (non-graphic layout metadata)"
+    }
+  ],
+  "manual_AutoCAD_open_or_plot": false,
+  "independent_LibreDWG_read": {
+    "model_entity_counts_match": true,
+    "audit_errors": 0,
+    "DXF_export_dictionary_normalizations": 5,
+    "note": "alternative LibreDWG DXF export normalized dictionary keys; not used as the delivered DXF or PDF source"
+  }
+}
